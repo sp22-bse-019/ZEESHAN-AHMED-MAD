@@ -72,7 +72,7 @@ const applyDiscount = (discountCode) => {
   return discountedCost;
 };
 
-// Example of adding up to 8 items to the cart
+// adding up to 8 items to the cart
 addItemToCart(1, 'Phone', 2, 500);
 addItemToCart(2, 'Laptop', 1, 1200);
 addItemToCart(3, 'Headphones', 3, 100);
